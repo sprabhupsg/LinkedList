@@ -89,7 +89,14 @@ print("Node Data in reverse:")
 llist.printRevLL(my_head)
 
 
-
+'''
+#Output
+Node Data:
+a->b->c->d->
+Size of linked list: 4
+Node Data in reverse:
+d->c->b->a->
+'''
 
 
 
